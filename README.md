@@ -17,7 +17,7 @@ The train, dev, and test sets are provided in three JSON files. Each JSON file c
 * **candidate_utterances** : Two lists with the keys `valid` and `invalid` contains the valid and invalid follow-up queries. Each of the invalid utterances is accompanied by the the reason explaining why the utterance is not a valid follow-up.
 
 
-## Citaion
+## Citation
 ```bibtex
 @inproceedings{richardson-etal-2023-fqbank,
     title = "Learning to Retrieve Engaging Follow-Up Queries",
